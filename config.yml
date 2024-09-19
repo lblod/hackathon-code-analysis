@@ -1,0 +1,59 @@
+groep1:
+  repo:
+    - https://github.com/lblod/app-erfgoed-lblod-groep1.git
+    - https://github.com/lblod/frontend-erfgoed-lblod-groep1.git
+    - https://github.com/lblod/hackathon2024-groep1.git
+groep2:
+  repo:
+    - https://github.com/lblod/frontend-say-hackathon-w1-g2.git
+    - https://github.com/lblod/app-say-hackathon-w1-g2.git
+groep3:
+  repo:
+    - https://github.com/lblod/frontend-say-hackathon-w1-g3.git
+    - https://github.com/lblod/app-say-hackathon-w1-g3.git
+groep4:
+  repo:
+    - https://github.com/lblod/app-hackathon-team-4-permits.git
+    - https://github.com/lblod/frontend-hackathon-team-4-permits.git
+    - https://github.com/lblod/hackathon-team-4-oe-id-search-service.git
+groep5:
+  repo:
+    - https://github.com/lblod/app-say-hackathon-w1-g5.git
+    - https://github.com/lblod/frontend-say-hackathon-w1-g5.git
+groep6:
+  repo:
+    - https://github.com/lblod/frontend-erfgoed-lblod-groep6.git
+    - https://github.com/lblod/validation-erfgoed-lblod-groep6-service.git
+    - https://github.com/lblod/app-erfgoed-lblod-groep6.git
+groep7:
+  repo:
+    - https://github.com/lblod/frontend-cycling-form-group7.git
+    - https://github.com/lblod/app-cycling-form-group-7.git
+    - https://github.com/lblod/frontend-cycling-form-organiser-group7.git
+    - https://github.com/lblod/frontend-gn-group-7.git
+    - https://github.com/lblod/cycling-race-form-generator-service-group-7-v2.git
+    - https://github.com/lblod/cycling-race-form-generator-service-group-7.git
+groep8:
+  repo:
+    - https://github.com/lblod/app-cycling-form-group-8.git
+    - https://github.com/lblod/frontend-group-8-decisions.git
+    - https://github.com/lblod/frontend-cycling-form-group-8.git
+    - https://github.com/lblod/gpx-group-8.git
+    - https://github.com/lblod/app-group-8-decisions.git
+    - https://github.com/lblod/app-group-8-template-builder.git
+groep9:
+  repo:
+    - https://github.com/lblod/app-gelinkt-notuleren-group-9.git
+    - https://github.com/lblod/aanvragen-sync-service-group-9.git
+    - https://github.com/lblod/frontend-verenigingsloket-group9.git
+    - https://github.com/lblod/frontend-gelinkt-notuleren-group-9.git
+    - https://github.com/lblod/app-verenigingsloket-group9.git
+    - https://github.com/lblod/permit-decisions-sync-service-group-9.git
+    - https://github.com/lblod/app-gn-publicatie-group9.git
+groep10:
+  repo:
+    - https://github.com/lblod/app-cycling-requests-group-10.git
+    - https://github.com/lblod/frontend-cycling-requests-group-10.git
+    - https://github.com/lblod/cycling-request-group-10-service.git
+
+
